@@ -1,0 +1,17 @@
+.search {
+    background-image: url(/images/spotify-background.jpeg);
+    background-size: cover;
+}
+
+.center {
+    text-align: center;
+    
+}
+
+.input {
+    margin-top: 300px;
+}
+
+.button {
+    margin-top: 350px;
+}
